@@ -102,6 +102,6 @@ def main ( ini , meta ) :
     print ( camino )
 
 if __name__ == '__main__':
-    n1=input("Ingresa el numero 1: ")
-    n2=input("ingresa el numero 2: ")
+    n1=input("Ingresa el caracter de inicio: ")
+    n2=input("ingresa el caracter de final: ")
     main (n1,n2)
